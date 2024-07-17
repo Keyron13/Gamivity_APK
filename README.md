@@ -1,4 +1,4 @@
-# Gamivity
+<h1 align="center">Gamivity</h1>
 
 ## Bienvenidos
 
