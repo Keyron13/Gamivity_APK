@@ -18,7 +18,7 @@ En este repositorio, podrás encontrar todas las versiones y actualizaciones de 
 
 ## Instalador
 
-Para instalar la última versión de **Gamivity**, dirígete a la sección de [Releases](https://github.com/Keyron13/Gamivity_APK/releases/tag/V.1.0.7). Allí encontrarás el archivo APK listo para ser descargado e instalado en tu dispositivo.
+Para instalar la última versión de **Gamivity**, dirígete a la sección de [Releases](https://github.com/Keyron13/Gamivity_APK/releases/tag/V.1.0.8). Allí encontrarás el archivo APK listo para ser descargado e instalado en tu dispositivo.
 
 ### ¿Cómo instalar?
 
